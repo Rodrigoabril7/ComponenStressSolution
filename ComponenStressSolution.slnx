@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="ComponenStress/ComponenStress.vcxproj" />
+  <Project Path="ComponenStress/ComponenStress.vcxproj" Id="1d121b1c-43b7-413e-9e42-1a2f08f66eae" />
 </Solution>
